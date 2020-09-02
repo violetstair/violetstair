@@ -1,6 +1,6 @@
 ## VioletStair
 
-Resume: [한국어](https://violetstair.github.io/about)
+About me: [한국어](https://violetstair.github.io/about)
 
 <p align="center">
   <a href="https://github.com/violetstair"><img src="https://img.shields.io/github/followers/violetstair.svg?label=GitHub&style=social" alt="GitHub"></a>
