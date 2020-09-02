@@ -7,7 +7,7 @@ Resume: [한국어](https://violetstair.github.io/about)
   <a href="https://violetstair.github.io"><img src="https://img.shields.io/badge/blog-violetstair.github.io-303030.svg" alt="Blog" /></a>
   <a href="https://twitter.com/violetstair"><img src="https://img.shields.io/badge/twitter-violetstair-1da1f2.svg" alt="Twitter" /></a>
   <a href="https://fb.com/violetstair"><img src="https://img.shields.io/badge/facebook-violetstair-3b5998.svg" alt="Facebook" /></a>
-  <a href="https://instagram.com/violetstair"><img src="https://img.shields.io/badge/instagram-violetstair-e1306c.svg" alt="Instagram" /></a>
+  <a href="https://instagram.com/violetstair"><img src="https://img.shields.io/badge/instagram-violetstair-833ab4.svg" alt="Instagram" /></a>
 </p>
 
 <p align="center">
