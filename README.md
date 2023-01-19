@@ -7,9 +7,3 @@
   <a href="https://fb.com/violetstair"><img src="https://img.shields.io/badge/facebook-violetstair-3b5998.svg" alt="Facebook" /></a>
   <a href="https://instagram.com/violetstair"><img src="https://img.shields.io/badge/instagram-violetstair-833ab4.svg" alt="Instagram" /></a>
 </p>
-
-<p align="center">
- <a href="https://github.com/violetstair">
-   <img src="https://github-readme-stats.vercel.app/api?username=violetstair&count_private=true&show_icons=true&theme=dracula" />
- </a>
-</p>
